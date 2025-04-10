@@ -1,0 +1,3 @@
+var usuarios = ["Rafaella", "Marina", "Malu", "Clara", "Marcelo" , "Rafaella", "Sarah", "Ana julia", "Vinicius", "Luana", "Maria de Lourdes", "Pedro", "Pietro", "Carlos", "Ana livia", "Carla", "Logan", "Gabriela", "Maria", "Laryssa", "Brenda", "Lucas", "Daniel", "Julio", "Laura", "Beatriz", "Bruno", "John", "Sabrina", "Adam", "Emily"]
+var usuarioEscolhido = parseInt(prompt("Digite um número de 0 a 30:"))
+document.write("Este número pertence á: " + usuarios[usuarioEscolhido])
